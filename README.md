@@ -6,7 +6,7 @@ Axis Industrial kompaniyasi uchun ishlab chiqilgan rasmiy veb-sayt. Ushbu loyiha
 
 | Asosiy sahifa | Xizmatlar sahifasi | Kontaktlar sahifasi |
 | :--- | :--- | :--- |
-| ![Asosiy sahifa](Image.png) | ![Xizmatlar](image2.png) | ![Kontaktlar](image3.png) |
+| ![Asosiy sahifa](image.png) | ![Xizmatlar](image2.png) | ![Kontaktlar](image3.png) |
 
 
 ## 🚀 Loyihani ishga tushirish
